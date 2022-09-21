@@ -24,7 +24,6 @@ import com.spotify.sdk.android.auth.AuthorizationResponse
 class MainActivity : AppCompatActivity(){
 
     private val clientId = "cef34d1f200a40c58f6388d2d03d2f72"
-    private val clientSecret = "71486f887a44472589045cc5771cdcf5"
     private val scopes = arrayOf("user-read-recently-played","user-library-modify","user-read-email","user-read-private","user-top-read", "playlist-read-private","playlist-read-collaborative")
     private val redirectUri = "kotlinspotifyjanitor://callback"
 
