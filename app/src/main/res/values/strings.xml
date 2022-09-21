@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spotify Janitor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_top">Your top hits</string>
+    <string name="menu_search">Search the spotify database</string>
+    <string name="menu_profile">Your own profile</string>
+    <string name="menu_playlists">Your playlists</string>
+
+    <string name="search_hint">Songs</string>
+    <string name="logout_button">LogOut</string>
+</resources>
